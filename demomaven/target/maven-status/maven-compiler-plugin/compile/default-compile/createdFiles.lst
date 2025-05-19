@@ -1,0 +1,6 @@
+com/example/demomaven/service/PowerCalculationService.class
+com/example/demomaven/model/Component.class
+com/example/demomaven/repository/ComponentRepository.class
+com/example/demomaven/DemomavenApplication.class
+com/example/demomaven/controller/PowerCalculatorController.class
+com/example/demomaven/config/DataInitializer.class

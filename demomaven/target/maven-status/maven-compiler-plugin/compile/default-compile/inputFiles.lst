@@ -1,0 +1,9 @@
+/Users/artemderkach/Downloads/demomaven/src/main/java/com/example/demomaven/DemomavenApplication.java
+/Users/artemderkach/Downloads/demomaven/src/main/java/com/example/demomaven/config/DataInitializer.java
+/Users/artemderkach/Downloads/demomaven/src/main/java/com/example/demomaven/config/OpenApiConfig.java
+/Users/artemderkach/Downloads/demomaven/src/main/java/com/example/demomaven/config/SecurityConfig.java
+/Users/artemderkach/Downloads/demomaven/src/main/java/com/example/demomaven/controller/AuthController.java
+/Users/artemderkach/Downloads/demomaven/src/main/java/com/example/demomaven/controller/PowerCalculatorController.java
+/Users/artemderkach/Downloads/demomaven/src/main/java/com/example/demomaven/model/Component.java
+/Users/artemderkach/Downloads/demomaven/src/main/java/com/example/demomaven/repository/ComponentRepository.java
+/Users/artemderkach/Downloads/demomaven/src/main/java/com/example/demomaven/service/PowerCalculationService.java
